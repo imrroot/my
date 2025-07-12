@@ -1,1 +1,3 @@
+config://eyJkbnMiOnsiaG9zdHMiOnsiZG9tYWluOmdvb2dsZWFwaXMuY24iOiJnb29nbGVhcGlzLmNvbSJ9LCJzZXJ2ZXJzIjpbIjEuMS4xLjEiXX0sImluYm91bmRzIjpbeyJwb3J0IjoxMDgwOCwicHJvdG9jb2wiOiJzb2NrcyJ9XSwib3V0Ym91bmRzIjpbeyJwcm90b2NvbCI6InZsZXNzIn1dfQ==
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-9.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#Server%209
 
